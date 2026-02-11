@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "min_supported_version": "1.0.0",
-  "release_notes": "초기 릴리즈",
+  "release_notes": "FFMPEG 권한 오류 수정 (Program Files 설치 시 임시파일 경로 문제 해결)",
   "is_mandatory": false,
   "download_url": "",
-  "patch_url": "",
+  "patch_url": "https://github.com/user-attachments/files/25225385/patch_v1.0.1.zip",
   "patch_files": []
 }
