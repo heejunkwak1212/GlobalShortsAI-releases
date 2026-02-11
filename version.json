@@ -1,0 +1,9 @@
+{
+  "latest_version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "release_notes": "초기 릴리즈",
+  "is_mandatory": false,
+  "download_url": "",
+  "patch_url": "",
+  "patch_files": []
+}
