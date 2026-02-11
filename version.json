@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.5",
+  "latest_version": "1.0.6",
   "min_supported_version": "1.0.0",
-  "release_notes": "전체 업데이트 및 안정화",
+  "release_notes": "v1.0.6 보안 업데이트 (PyArmor 난독화)",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.0.5/_Setup_1.0.5.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.0.6/_Setup_1.0.1.exe",
   "patch_url": "",
   "patch_files": []
 }
