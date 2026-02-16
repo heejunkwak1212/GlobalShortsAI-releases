@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.9",
   "min_supported_version": "1.0.0",
-  "release_notes": "v1.0.8 UI 및 자막 싱크 완벽 개선",
+  "release_notes": "사용자 API 기반 작업 변환",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.0.8/_Setup_1.0.8.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.0.9/_Setup_1.0.9.exe",
   "patch_url": "",
   "patch_files": []
 }
