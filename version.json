@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.4",
+  "latest_version": "1.1.5",
   "min_supported_version": "1.0.0",
-  "release_notes": "v1.1.4 큐 비활성화, GhostCut 에러 처리 강화, API 모달 버그 수정",
+  "release_notes": "프로그램명 변경",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.1.4/_Setup_1.1.4.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.1.5/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
