@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.1",
+  "latest_version": "1.2.2",
   "min_supported_version": "1.0.0",
-  "release_notes": "작업 로그 자동 생성 기능 추가",
+  "release_notes": "결제 기능 안전성 향상",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.1/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.2/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
