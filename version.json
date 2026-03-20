@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.1.8",
+  "latest_version": "1.2.1",
   "min_supported_version": "1.0.0",
-  "release_notes": "기능 개선 작업",
+  "release_notes": "작업 로그 자동 생성 기능 추가",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.1.8/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.1/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
