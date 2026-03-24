@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.2",
+  "latest_version": "1.2.4",
   "min_supported_version": "1.0.0",
-  "release_notes": "자막 크기 및 기능 향상",
+  "release_notes": "로그 내역 구체화 + 로그아웃 버튼 UI 구현",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.3/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.4/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
