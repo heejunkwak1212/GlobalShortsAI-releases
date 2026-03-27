@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.5",
+  "latest_version": "1.2.6",
   "min_supported_version": "1.0.0",
-  "release_notes": "자막 길이 분기 및 바탕화면 로그 생성 로직 강화",
+  "release_notes": "v1.2.6 안정성 업데이트 - 빌드 버전 식별 및 진단 로그 보강",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.5/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.6/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
