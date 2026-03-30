@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.6",
+  "latest_version": "1.2.7",
   "min_supported_version": "1.0.0",
-  "release_notes": "v1.2.6 안정성 업데이트 - 빌드 버전 식별 및 진단 로그 보강",
+  "release_notes": "[스마트 동기화] 한국어 숫자 자막 싱크 개선",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.6/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.7/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
