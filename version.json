@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.9",
+  "latest_version": "1.3.1",
   "min_supported_version": "1.0.0",
-  "release_notes": "영상 추출 불안정에 따른 전용 API 교체 (Rapidapi -> Tikhub API) 및 안정성 향상",
+  "release_notes": "로그인 유지(자동 로 그인) 버그 수정 및 안정성 향상",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.2.9/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.3.1/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
