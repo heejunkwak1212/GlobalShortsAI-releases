@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.3.7",
+  "latest_version": "1.3.8",
   "min_supported_version": "1.0.0",
-  "release_notes": "사용자 MP4 첨부 기능 추가",
+  "release_notes": "자막 중앙 정렬 개선",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.3.7/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.3.8/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
