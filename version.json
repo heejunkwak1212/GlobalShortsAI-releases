@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.2",
+  "latest_version": "1.4.3",
   "min_supported_version": "1.0.0",
-  "release_notes": "재등록 안내 모달 크래시 핫픽스",
+  "release_notes": "모듈 누락 완전 수정",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.2/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.3/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
