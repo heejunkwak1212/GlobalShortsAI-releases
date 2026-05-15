@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.5",
+  "latest_version": "1.4.6",
   "min_supported_version": "1.0.0",
-  "release_notes": "버킷 404 네트워크 지연 오류 개선",
+  "release_notes": "도우인 링크 첨부 오류 해결",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.5/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.6/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
