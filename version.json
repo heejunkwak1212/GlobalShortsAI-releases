@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.4.7",
+  "latest_version": "1.4.8",
   "min_supported_version": "1.0.0",
-  "release_notes": "CTA 문구 추가 및 고스트컷 여부 선택 기능 추가",
+  "release_notes": "작업 시작 버튼 먹통 버그 수정 및 CTA 기능 업데이트",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.7/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.4.8/_Setup.exe",
   "patch_url": "",
   "patch_files": []
 }
