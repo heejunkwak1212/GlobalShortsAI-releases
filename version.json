@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.1",
+  "latest_version": "1.5.3",
   "min_supported_version": "1.0.0",
-  "release_notes": "로그인 및 결제 확인 모달 연결 링크 수정",
+  "release_notes": "체크박스 스타일 개선",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.1/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.3/_Setup.exe",
   "patch_url": "",
   "patch_files": [],
   "beta_version": "1.5.3",
