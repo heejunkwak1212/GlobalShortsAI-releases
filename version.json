@@ -5,5 +5,9 @@
   "is_mandatory": false,
   "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.1/_Setup.exe",
   "patch_url": "",
-  "patch_files": []
+  "patch_files": [],
+  "beta_version": "1.5.2",
+  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.2/_Setup.exe",
+  "beta_release_notes": "로그인 및 결제 확인 모달 연결 링크 수정 및 체크박스 스타일 개선",
+  "beta_patch_url": ""
 }
