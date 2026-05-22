@@ -6,8 +6,8 @@
   "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.3/_Setup.exe",
   "patch_url": "",
   "patch_files": [],
-  "beta_version": "1.5.4",
-  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.4/_Setup.exe",
-  "beta_release_notes": "제미나이 대본 생성 단계 중 에러 폴백 로직 강화",
+  "beta_version": "1.5.5",
+  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.5/_Setup.exe",
+  "beta_release_notes": "제미나이 대본 생성 단계 중 에러 폴백 로직 강화 2",
   "beta_patch_url": ""
 }
