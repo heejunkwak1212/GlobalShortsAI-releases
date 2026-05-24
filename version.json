@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.5.3",
+  "latest_version": "1.5.6",
   "min_supported_version": "1.0.0",
-  "release_notes": "체크박스 스타일 개선",
+  "release_notes": "제미나이 멈춤 오류 메시지 안내 가시화 및 중복 실행 방지 적용",
   "is_mandatory": false,
-  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.3/_Setup.exe",
+  "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.6/_Setup.exe",
   "patch_url": "",
   "patch_files": [],
   "beta_version": "1.5.6",
