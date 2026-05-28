@@ -6,8 +6,8 @@
   "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.6/_Setup.exe",
   "patch_url": "",
   "patch_files": [],
-  "beta_version": "1.5.6",
-  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.6/_Setup.exe",
-  "beta_release_notes": "제미나이 멈춤 오류 메시지 안내 가시화 및 중복 실행 방지 적용",
+  "beta_version": "1.5.7",
+  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.7/_Setup.exe",
+  "beta_release_notes": "바탕화면 error_debug.txt 에러 디버깅 로그 자동 생성 기능 추가",
   "beta_patch_url": ""
 }
