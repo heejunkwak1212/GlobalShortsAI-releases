@@ -6,8 +6,8 @@
   "download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.7/_Setup.exe",
   "patch_url": "",
   "patch_files": [],
-  "beta_version": "1.5.7",
-  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.7/_Setup.exe",
-  "beta_release_notes": "바탕화면 error_debug.txt 에러 디버깅 로그 자동 생성 기능 추가",
+  "beta_version": "1.5.8",
+  "beta_download_url": "https://github.com/heejunkwak1212/GlobalShortsAI-releases/releases/download/v1.5.8/_Setup.exe",
+  "beta_release_notes": "오류 발생 시 바탕화면 error_debug.txt 자동 생성 기능 추가 2",
   "beta_patch_url": ""
 }
